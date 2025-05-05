@@ -5,7 +5,11 @@ Welcome to the **beep boop labs** GitHub!
 
 ## 📦 Products
 
-We are currently hard at work preparing our first products — please check back soon for more exciting news!
+We are excited to launch our first product:
+
+- [kiwi**key**™](https://github.com/beepbooplabsltd/kiwikey): a P25 keyloading adapter for Tait radios
+
+We also have other projects in the pipeline — please check back soon for more exciting news!
 
 ## 👨‍🔬 About us
 
@@ -15,4 +19,4 @@ We take pride in making our users' lives easier through unique hardware and soft
 
 ## 📮 Contact
 
-Got a question? Have an idea? We'd love to hear it!
+Got a question? Have an idea? [Please get in touch!](mailto:info@beepbooplabs.ltd)
