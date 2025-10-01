@@ -11,6 +11,8 @@ We are excited to launch our first product:
 
 We also have other projects in the pipeline — please check back soon for more exciting news!
 
+## 🛒 [Order now!](https://shop.beepbooplabs.ltd/)
+
 ## 👨‍🔬 About us
 
 We are a small team of engineers and designers with a passion for LMR and RF engineering.
