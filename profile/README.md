@@ -25,4 +25,4 @@ We take pride in making our users' lives easier through unique hardware and soft
 
 ## 📮 Contact
 
-Got a question? Have an idea? [Please get in touch!](mailto:info@beepbooplabs.ltd)
+Got a question? Have an idea? [Please get in touch!](mailto:contact@beepbooplabs.ltd)
