@@ -7,6 +7,9 @@ Welcome to the **beep boop labs** GitHub!
 
 We are excited to launch our first products!
 
+### Keyloaders
+- [**bbl**key™](https://github.com/beepbooplabsltd/bblkey): a premium P25 keyloader compatible with [KFDtool](https://github.com/omahacommsys/KFDtool/) software
+
 ### Keyloading adapters
 - [kiwi**key**™](https://github.com/beepbooplabsltd/kiwikey): a P25 keyloading adapter for Tait radios
 - [**XL**key™](https://github.com/beepbooplabsltd/xlkey): a P25 keyloading adapter for L3Harris XL mobile radios
