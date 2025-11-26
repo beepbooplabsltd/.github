@@ -12,9 +12,12 @@ We are excited to launch our first products!
 
 ### Keyloading adapters
 
-#### Active
+#### Protocol
 
 - [kiwi**key**™](https://github.com/beepbooplabsltd/kiwikey): a P25 keyloading adapter for Tait radios
+
+#### Active
+
 - [**XL**key™](https://github.com/beepbooplabsltd/xlkey): a P25 keyloading adapter for L3Harris XL mobile radios
 
 #### Passive
